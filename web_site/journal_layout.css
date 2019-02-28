@@ -1,0 +1,45 @@
+#wrapper
+{
+	background-color: white;
+	overflow: hidden;
+}
+.body
+{
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	overflow: hidden;
+	float: right;
+	width: 80%;
+}
+#header
+{
+	text-align: right;
+}
+body
+{
+	margin-left: 10%;
+	margin-right: 10%;
+	background-image: url(http://www.cs.washington.edu/education/courses/190m/09sp/labs/2%E2%80%90journal/images/background.gif);
+	background-color: lightblue;
+}
+
+#sidebar
+{
+	margin-top: 10px;
+	padding: 5px;
+	border: 5px blue solid;
+	background-color: #E8FBFB;
+	float: left;
+	width: 15%;
+}
+.pic
+{
+	float: right;
+}
+*:hover
+{background-color:yellow;	
+}

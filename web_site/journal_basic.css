@@ -5,6 +5,26 @@
    NOTE: This file does NOT need changing for the lab.
 */
 
+#wrapper
+{
+	border: 10px white solid;
+}
+#header
+{
+	background-color: #A8F0F0;
+}
+#subheader
+{
+	font-size: 14pt;
+}
+.body
+{
+	border: 4px #C2E9E9 solid;
+}
+.date
+{
+	border-bottom:  2px blue dashed;
+}
 a {
 	color: #245F5F;
 	text-decoration: none;
